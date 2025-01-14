@@ -15,7 +15,7 @@ export function UiLayout({ children, links }: { children: ReactNode; links: { la
 
   return (
     <div className="h-full flex flex-col">
-      <div className="navbar bg-base-300 text-neutral-content flex-col md:flex-row space-y-2 md:space-y-0">
+      <div className="navbar bg-base-300 dark:text-neutral-content flex-col md:flex-row space-y-2 md:space-y-0">
         <div className="flex-1">
           <Link className="btn btn-ghost normal-case text-xl" href="/">
             <img className="h-4 md:h-6" alt="Logo" src="/logo.png" />
