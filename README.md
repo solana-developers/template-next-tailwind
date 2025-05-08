@@ -1,5 +1,8 @@
 # template-next-tailwind
 
+> [!WARNING]  
+Templates for create-solana-dapp have moved to [this repo](https://github.com/solana-developers/solana-templates).
+
 ### Usage
 
 Use the [create-solana-dapp](https://github.com/solana-developers/create-solana-dapp) tool to start a new project based on this template (recommended).
